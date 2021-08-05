@@ -1,0 +1,145 @@
+html{
+
+    margin: 0;
+ padding: 0;
+}
+
+
+body{
+background-color: #403f4c;
+margin: 0;
+padding: 0;
+font-family: Merienda One, sans-serif;
+color: #FCF7FF;
+height: 100%;
+
+}
+
+
+#Mainnav .navbar-brand{
+
+    color: #FCF7FF;
+    font-size: 1.5 rem;
+    font-weight: 700;
+   
+
+}
+#Mainnav .nav-link{
+
+    font-size: 1 rem;
+
+}
+#Mainnav .nav-link:hover{
+
+    color: #FCF7FF;
+}
+
+#headingtext span{
+color: #878C8F;
+    
+
+
+}
+
+
+
+
+
+
+
+
+#headingtext h2{
+   font-weight: 0;
+        
+    font-size:3.5rem;
+    
+    }
+
+
+
+
+    @media (max-width: 1514px) {
+        #headingtext h2{
+            font-weight: 0;
+             font-size:2.5rem;
+             
+             }
+      }
+
+      @media (max-width: 1450px) {
+        #headingtext h2{
+            font-weight: 0;
+                 
+             font-size:2rem;
+             
+             }
+
+
+
+             #pt2 p{
+
+                font-size: small;
+                
+                
+                      }
+
+      }
+
+      #iconss
+      {
+
+         width: 2rem;
+         height: 2rem;
+
+
+
+      }
+
+
+
+      #pt2 h2{
+
+
+
+color: #A4969B;
+
+
+      }
+      
+      #pt2 p{
+
+
+
+        font-weight: 100;
+        font-size: medium;
+        line-height: 2;
+        
+        
+              }
+              #pt2 h2{
+
+
+
+                color: #A4969B;
+                
+                
+                      }
+                      
+                      #pt2 p{
+                
+                
+                
+                        font-weight: 100;
+                        font-size: medium;
+                        line-height: 2;
+                        
+                        
+                              }
+
+
+
+.navbar.scrolled{
+background-color:red;
+
+
+}
